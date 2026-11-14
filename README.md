@@ -88,7 +88,7 @@ Analog IC design · CMOS square-law sizing · Miller compensation and phase marg
 
 ## Related
 
-[CMOS Low-Voltage Op-Amp](https://github.com/contactmishra/cmos-low-voltage-opamp): the follow-up project, a folded-cascode op-amp that runs from a single 2 V supply.
+[CMOS Low-Voltage Op-Amp](https://github.com/theommishra-dev/cmos-low-voltage-opamp): the follow-up project, a folded-cascode op-amp that runs from a single 2 V supply.
 
 ---
 
